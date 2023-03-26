@@ -1,0 +1,23 @@
+.container{
+  margin: 72px 0 37px;
+}
+
+.load {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 370px;
+  width: 780px;
+  margin: auto;
+}
+.photo{
+  width: 400px;
+  height: 235px;
+}
+.display{
+  display: flex;
+}
+.ajax {
+  text-decoration: none;
+}
+
